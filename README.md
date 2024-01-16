@@ -1,11 +1,4 @@
 # Shopping Analytics
-
-
-Welcome to my collection of SQL-Tableau projects, showcasing my skills in data analysis, database management, and data visualization. These projects, developed for school, work, or personal exploration, cover a range of topics like deriving actionable insights from an online shopping dataset, employing SQL for data exploration and Tableau for creating interactive visualizations.
-
-Feel free to navigate through the projects listed below, each providing a unique perspective on data-driven decision-making.
-
-## Project Index
 1. [Online Shopping Analytics Project](#online-shopping-analytics-with-data-visualization-through-sql-server-management-studio-and-tableau-december-2023)
 
 ## Projects
